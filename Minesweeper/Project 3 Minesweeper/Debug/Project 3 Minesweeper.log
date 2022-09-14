@@ -1,0 +1,36 @@
+﻿  Board.cpp
+C:\Users\dougl\source\repos\Project 3 Minesweeper\Project 3 Minesweeper\Board.cpp(21,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dougl\source\repos\Project 3 Minesweeper\Project 3 Minesweeper\Board.cpp(22,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dougl\source\repos\Project 3 Minesweeper\Project 3 Minesweeper\Board.cpp(23,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dougl\source\repos\Project 3 Minesweeper\Project 3 Minesweeper\Board.cpp(24,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dougl\source\repos\Project 3 Minesweeper\Project 3 Minesweeper\Board.cpp(51,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dougl\source\repos\Project 3 Minesweeper\Project 3 Minesweeper\Board.cpp(51,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dougl\source\repos\Project 3 Minesweeper\Project 3 Minesweeper\Board.cpp(140,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dougl\source\repos\Project 3 Minesweeper\Project 3 Minesweeper\Board.cpp(140,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dougl\source\repos\Project 3 Minesweeper\Project 3 Minesweeper\Board.cpp(141,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dougl\source\repos\Project 3 Minesweeper\Project 3 Minesweeper\Board.cpp(141,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dougl\source\repos\Project 3 Minesweeper\Project 3 Minesweeper\Board.cpp(142,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dougl\source\repos\Project 3 Minesweeper\Project 3 Minesweeper\Board.cpp(142,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dougl\source\repos\Project 3 Minesweeper\Project 3 Minesweeper\Board.cpp(143,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dougl\source\repos\Project 3 Minesweeper\Project 3 Minesweeper\Board.cpp(143,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dougl\source\repos\Project 3 Minesweeper\Project 3 Minesweeper\Board.cpp(144,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dougl\source\repos\Project 3 Minesweeper\Project 3 Minesweeper\Board.cpp(144,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dougl\source\repos\Project 3 Minesweeper\Project 3 Minesweeper\Board.cpp(306,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dougl\source\repos\Project 3 Minesweeper\Project 3 Minesweeper\Board.cpp(331,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dougl\source\repos\Project 3 Minesweeper\Project 3 Minesweeper\Board.cpp(356,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dougl\source\repos\Project 3 Minesweeper\Project 3 Minesweeper\Board.cpp(356,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dougl\source\repos\Project 3 Minesweeper\Project 3 Minesweeper\Board.cpp(376,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dougl\source\repos\Project 3 Minesweeper\Project 3 Minesweeper\Board.cpp(377,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dougl\source\repos\Project 3 Minesweeper\Project 3 Minesweeper\Board.cpp(378,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dougl\source\repos\Project 3 Minesweeper\Project 3 Minesweeper\Board.cpp(379,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dougl\source\repos\Project 3 Minesweeper\Project 3 Minesweeper\Board.cpp(450,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dougl\source\repos\Project 3 Minesweeper\Project 3 Minesweeper\Board.cpp(450,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dougl\source\repos\Project 3 Minesweeper\Project 3 Minesweeper\Board.cpp(451,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dougl\source\repos\Project 3 Minesweeper\Project 3 Minesweeper\Board.cpp(451,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dougl\source\repos\Project 3 Minesweeper\Project 3 Minesweeper\Board.cpp(452,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dougl\source\repos\Project 3 Minesweeper\Project 3 Minesweeper\Board.cpp(452,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dougl\source\repos\Project 3 Minesweeper\Project 3 Minesweeper\Board.cpp(453,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dougl\source\repos\Project 3 Minesweeper\Project 3 Minesweeper\Board.cpp(453,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dougl\source\repos\Project 3 Minesweeper\Project 3 Minesweeper\Board.cpp(454,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dougl\source\repos\Project 3 Minesweeper\Project 3 Minesweeper\Board.cpp(454,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Project 3 Minesweeper.vcxproj -> C:\Users\dougl\source\repos\Project 3 Minesweeper\Debug\Project 3 Minesweeper.exe
