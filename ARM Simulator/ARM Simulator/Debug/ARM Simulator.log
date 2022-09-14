@@ -1,0 +1,6 @@
+﻿  ARMsim.cpp
+C:\Users\dougl\source\repos\ARM Simulator\ARM Simulator\ARMsim.cpp(551,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dougl\source\repos\ARM Simulator\ARM Simulator\ARMsim.cpp(573,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dougl\source\repos\ARM Simulator\ARM Simulator\ARMsim.cpp(600,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dougl\source\repos\ARM Simulator\ARM Simulator\ARMsim.cpp(666,20): warning C4018: '<': signed/unsigned mismatch
+  ARM Simulator.vcxproj -> C:\Users\dougl\source\repos\ARM Simulator\Debug\ARM Simulator.exe
