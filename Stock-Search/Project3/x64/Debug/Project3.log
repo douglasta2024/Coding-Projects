@@ -1,0 +1,15 @@
+﻿  DayData.cpp
+  Functions.cpp
+  Heap.cpp
+C:\Users\dougl\source\repos\Stock-Search\Project3\Heap.cpp(16,26): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dougl\source\repos\Stock-Search\Project3\Heap.cpp(21,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\dougl\source\repos\Stock-Search\Project3\Heap.cpp(91,26): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dougl\source\repos\Stock-Search\Project3\Heap.cpp(131,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  MergeSort.cpp
+C:\Users\dougl\source\repos\Stock-Search\Project3\MergeSort.cpp(9,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dougl\source\repos\Stock-Search\Project3\MergeSort.cpp(25,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Stock.cpp
+  main.cpp
+C:\Users\dougl\source\repos\Stock-Search\Project3\main.cpp(52,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Project3.vcxproj -> C:\Users\dougl\source\repos\Stock-Search\x64\Debug\Project3.exe
